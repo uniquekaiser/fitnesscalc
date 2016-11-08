@@ -2,7 +2,7 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id        = "com.synergetic.Fitness-Extended-Free"
-		version   = "2.2.0">
+		version   = "2.2.1">
 		<name>Fitness Calculator Extended -Free-</name>
     <description>
 Fitness Calculator has the following outputs to help you evaluate your fitness:BMI, WHtR, BMR, RMR, Healthy Body Weight Range, Daily Caloric Intake, Personal Target Heart Rate and Body Fat Percentage. 
@@ -11,7 +11,7 @@ The information displayed on this App is intended to be used as a reference ONLY
     </description>
 		<author href="http://www.synergetic-col.com" email="apps@synergetic-col.com">Synergetic S.A.S</author>
 
-		<preference name='phonegap-version' value='cli-5.2.0' />
+		<preference name='phonegap-version' value='cli-6.3.0' />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="false" />
 		<preference name="target-device" value="universal" />

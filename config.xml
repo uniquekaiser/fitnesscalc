@@ -2,7 +2,7 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id        = "com.synergetic.Fitness-Extended-Free"
-		version   = "2.2.2">
+		version   = "2.2.3">
 		<name>Fitness Calculator Extended -Free-</name>
     <description>
 Fitness Calculator has the following outputs to help you evaluate your fitness:BMI, WHtR, BMR, RMR, Healthy Body Weight Range, Daily Caloric Intake, Personal Target Heart Rate and Body Fat Percentage. 

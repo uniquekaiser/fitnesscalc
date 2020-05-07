@@ -2,7 +2,7 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id        = "com.synergetic.Fitness-Extended-Free"
-		version   = "2.2.3">
+		version   = "2.2.4">
 		<name>Fitness Calculator Extended -Free-</name>
     <description>
 Fitness Calculator has the following outputs to help you evaluate your fitness:BMI, WHtR, BMR, RMR, Healthy Body Weight Range, Daily Caloric Intake, Personal Target Heart Rate and Body Fat Percentage. 
@@ -31,7 +31,7 @@ The information displayed on this App is intended to be used as a reference ONLY
 		<preference name="KeyboardDisplayRequiresUserAction" value="true" />
 		<preference name="HideKeyboardFormAccessoryBar" value="true" />
 		<preference name="SuppressesIncrementalRendering" value="false" />
-		<preference name="android-minSdkVersion" value="7" />
+		<preference name="android-minSdkVersion" value="19" />
 		<preference name="android-installLocation" value="internalOnly" />
 		<preference name="SplashScreen" value="splash" />
 		<preference name="SplashScreenDelay" value="4000" />
@@ -43,9 +43,7 @@ The information displayed on this App is intended to be used as a reference ONLY
 		<preference name="LoadingDialog" value=","/> 
 		<preference name="LoadUrlTimeoutValue" value="20000" />
 		<preference name="disable-cursor" value="true" />
-		<gap:platform name="ios" />
 		<gap:platform name="android" />
-		<gap:platform name="winphone" />
 		<feature name="http://api.phonegap.com/1.0/device"/>
 		<icon src="icon.png" />
 		<gap:splash src="splash.png" />
